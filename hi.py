@@ -1,3 +1,2 @@
-print("hieee")
-
+print("hi")
 a = 10
